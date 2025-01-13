@@ -10,5 +10,5 @@ ______
 https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ______
 <div align="center">
-    <img src="https://tenor.com/ru/view/nice-cat-gif-25643491" alt="Botty" width="500"/>
+    <img src="https://media.tenor.com/dy36jVqucVwAAAAM/tom-and-jerry-tom.gif" alt="Botty" width="500"/>
 </div>
