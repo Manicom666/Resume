@@ -7,5 +7,5 @@ ______
 https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ______
 <div align="center">
-    <img src="https://cs8.livemaster.ru/storage/d6/95/9eb41651dd47ff7b02dfc1395ah1.gif" alt="hippo" width="500"/>
+    <img src="https://otvet.imgsmail.ru/download/7031_75b720efa4b713e62d858a931744a997_800.gif" alt="hippo" width="500"/>
 </div>
