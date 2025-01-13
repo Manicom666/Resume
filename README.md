@@ -9,3 +9,6 @@ https://manicom666.github.io/PredmetyLN/ - Базы данных и запрос
 ______
 https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ______
+<div align="center">
+    <img src="https://media.tenor.com/uQHOCWdnoeYAAAAi/astro-bot.gif" alt="Botty" width="500"/>
+</div>
