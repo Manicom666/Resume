@@ -6,6 +6,7 @@ https://manicom666.github.io/PredmetyLN/ - Базы данных и запрос
 ______
 https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ______
+# TG BOT создание
 https://colab.research.google.com/drive/1_rd4CHJnilW9g8cN5kIfE-X-XqvstXfU?usp=sharing - ТГ бот
 ______
 <div align="center">
