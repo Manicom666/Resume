@@ -6,8 +6,15 @@ https://manicom666.github.io/PredmetyLN/ - Базы данных и запрос
 ______
 https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ______
+# Сети ПК
+https://drive.google.com/drive/folders/1jmAYzrUSaRpihdjjKjQ8QmnCZd1mBz9K?usp=drive_link - Курсовая,OWASP, KALI,Конспект по сетям
 # TG BOT создание
 https://colab.research.google.com/drive/1_rd4CHJnilW9g8cN5kIfE-X-XqvstXfU?usp=sharing - ТГ бот
+https://colab.research.google.com/drive/1rj0K1Iog1drekkzo7KtXiIhshX6mECPD?usp=drive_link - Задания
+______
+# Сертификаты по траектории будущего
+https://drive.google.com/drive/folders/16q_HFd6p8sCIpZKu-6tSFN9KV_Am_TrW?usp=drive_link - Сертификаты по номинациям
+https://drive.google.com/drive/folders/1JsfHpOdcme3lItnhgl3-xSAkXJ_LvabD?usp=drive_link - Сертификаты по номинациям скриншот
 ______
 <div align="center">
     <img src="https://media.tenor.com/dy36jVqucVwAAAAM/tom-and-jerry-tom.gif" alt="Botty" width="500"/>
