@@ -19,6 +19,9 @@ ______
 # "Работа с другими ОС"
  https://docs.google.com/document/d/19iymYGa8NLelDheLajVH3kH4JSM3jfX0gFsiI8RWnbE/edit?tab=t.0
 ______
+# "Умный сейф - IT PLANET"
+https://drive.google.com/drive/folders/1jIiIicXgf2SgPHsIHg6ymwZ7emcZxTht?usp=drive_link
+______
 <div align="center">
     <img src="https://media.tenor.com/dy36jVqucVwAAAAM/tom-and-jerry-tom.gif" alt="Botty" width="500"/>
 </div>
