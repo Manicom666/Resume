@@ -1,4 +1,6 @@
-
+# C++ - Обучение от Manicom666
+https://drive.google.com/drive/folders/1K8D_2FLYxOjK-M2hlXMow5JNwTaBYVPD?usp=drive_link
+______
 # Twine
 https://manicom666.github.io/Hardware-architecture/ - Сборки ПК
 ______
